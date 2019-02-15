@@ -5,10 +5,10 @@ homepage: https://www.github.com/lotux
 author: lotux <basirat@gmail.com>
 
 environment:
-  sdk: '>=1.20.1 <=2.1.0'
+  sdk: '>=2.0.0 <2.2.0'
 
 dependencies:
-  path: 
-  web_socket_channel: 
-  http: 
+  path:
+  web_socket_channel:
+  http:
 
